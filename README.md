@@ -7,7 +7,6 @@ Back End Developer
 I'm a back end developer. I have 5 year of experience in back end developer.
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [rattapon.simsri0@gmail.com](mailto:rattapon.simsri0@gmail.com)
 
 ### Skills
 
